@@ -1,38 +1,71 @@
-.App {
-  text-align: center;
+
+.navbar{
+    /* background-image: url("https://maldonsalon.com/images/wave-2.png"); */
+    background-color:#f8e0b1;
+   
+}
+.button{
+    margin-left: 500px;
+    
+    
+}
+.main{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/6233a7254a4b834e1c2c0ec3/1647722567875-DB119MXISQT6NDQ362P1/Background.jpg?format=1000w");
+    /* background-image: url("https://th.bing.com/th/id/OIP.us4cvE4MWjJbWvbB_5BKoAHaCS?rs=1&pid=ImgDetMain"); */
+ 
+    /* background-color: #f0edd5; */
+    margin-top: 30px;
+    /* padding-top:150px; */
+}
+.one{
+    margin-right: 20px;
+    padding: 4px;
+    background-color: rgb(214, 96, 96);
+}
+.two{
+    margin-left: 20px;
+    padding: 4px;
+    background-color: rgb(214, 96, 96);
+}
+.front{
+    margin-top: 130px;
+    /* background-image: url("https://images.squarespace-cdn.com/content/v1/6233a7254a4b834e1c2c0ec3/1647722567875-DB119MXISQT6NDQ362P1/Background.jpg?format=1000w"); */
+    background-image: url("https://images.squarespace-cdn.com/content/v1/6233a7254a4b834e1c2c0ec3/1647722567875-DB119MXISQT6NDQ362P1/Background.jpg?format=1000w");
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Cs{
+  background-image: url("https://maldonsalon.com/images/wave-2.png");
+    padding-top:150px;
+  
 }
+.pet{
+   padding-left:50px ;
+    font-size: 4em;
+}
+.pic{  
+     width: 460px;
+    height: 500px;
+}
+   
+ 
+ .cate{
+    background-color: rgb(119, 143, 250);
+    width: 400px;
+    height: 340px;
+    margin-top: -20px; 
+    margin-left: 40px;
+    border-radius: 60%;
+    border: 1px solid rgb(73, 176, 236);
+   ;
+ 
+} 
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+ .cate3{
+     width: 400px;
+     height: 340px;
+     margin-top: -20px; 
+     margin-left: 40px;
+     border-radius: 150%;
+    border: 1px solid rgb(73, 236, 86);
+} 
